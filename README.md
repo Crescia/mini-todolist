@@ -29,17 +29,16 @@ cd vue3-todolist
 安装依赖
 npm install
 ```
-### 开发
+### 启动
 ```bash
-启动开发服务器
 npm run dev
 ```
 ### 构建
 ```bash
-构建生产版本
 npm run build
 ```
 ## 项目结构
+```
 src/
 ├── components/ # 组件目录
 │ ├── ThemeToggle.vue # 主题切换组件
@@ -53,6 +52,7 @@ src/
 ├── App.vue # 根组件
 ├── main.ts # 入口文件
 └── style.css # 全局样式
+```
 ## 核心功能
 ### 待办事项管理
 - ✅ 添加新的待办事项（支持回车快捷键）
