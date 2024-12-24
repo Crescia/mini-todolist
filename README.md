@@ -23,7 +23,7 @@
 ### 安装
 ```bash
 克隆项目
-git clone https://github.com/Crescia/mini-todolist.git
+git clone https://github.com/Ecluna/mini-todolist.git
 进入项目目录
 cd vue3-todolist
 安装依赖
